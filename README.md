@@ -1,6 +1,6 @@
-# Snake Game
+# Tetris Game
 
-A simple Snake game built with Next.js and hosted on Vercel.
+A cool neon Tetris game built with Next.js and hosted on Vercel.
 
 ## Live Demo
 
@@ -10,12 +10,23 @@ This app is deployed on Vercel. Add your production URL here:
 
 ## Features
 
-- Classic Snake gameplay
-- Keyboard controls with arrow keys or WASD
-- On-screen controls for mobile and touch devices
-- Score and best score tracking
-- Pause, play, and restart controls
+- Classic Tetris-style gameplay
+- Colorful neon tetromino blocks
+- Score, best score, lines, and level tracking
+- Increasing drop speed as you level up
+- Next-piece preview
+- Keyboard controls and touch-friendly buttons
+- Pause, resume, hard drop, and restart controls
 - Responsive design for desktop and mobile
+
+## Controls
+
+- Left / Right arrows or A / D: move piece
+- Up arrow or W: rotate piece
+- Down arrow or S: soft drop
+- Space: hard drop
+- P: pause or resume
+- Enter: start a game from the ready or game-over screen
 
 ## Run locally
 
